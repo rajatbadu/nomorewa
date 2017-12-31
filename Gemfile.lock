@@ -137,6 +137,9 @@ GEM
       cocaine (~> 0.5.5)
       mime-types
       mimemagic (~> 0.3.0)
+    pg (0.21.0)
+    postgresql (1.0.0)
+      pg
     rack (2.0.3)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -239,6 +242,7 @@ DEPENDENCIES
   jquery-turbolinks
   kaminari
   paperclip
+  postgresql
   rails (= 5.1.2)
   sass-rails
   sdoc
