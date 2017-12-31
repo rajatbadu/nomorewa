@@ -38,10 +38,7 @@ body {
 }
 
 .navbar-brand {
-  a {
-    text-decoration: none;
-    color: #125688;
-  }
+  font-weight: 900;
 }
 
 .navbar a {
@@ -329,3 +326,14 @@ body {
 }
 
 
+.title-no {
+  color: green;
+}
+
+.title-more {
+  color: #125688;
+}
+
+.title-wa {
+  color: red;
+}
